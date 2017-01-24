@@ -17,7 +17,7 @@
     "clipboard"
   ],
   "author": "Humberto Pinheiro <humbhenri@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "clipboardy": "^0.1.2",
     "commander": "^2.9.0",
