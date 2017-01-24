@@ -1,0 +1,30 @@
+{
+  "name": "cpfcnpj-cli",
+  "version": "0.0.1",
+  "description": "Cli tool to verify and generate brazillian CPF and CNPJ numbers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humbhenri/cpfcnpj-cli.git"
+  },
+  "bin": {
+    "cpfcnpj": "cli"
+  },
+  "keywords": [
+    "cpf",
+    "cnpj",
+    "cli",
+    "utility",
+    "clipboard"
+  ],
+  "author": "Humberto Pinheiro <humbhenri@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^0.1.2",
+    "commander": "^2.9.0",
+    "cpf_cnpj": "^0.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
