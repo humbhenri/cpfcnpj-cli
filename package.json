@@ -1,6 +1,6 @@
 {
   "name": "cpfcnpj-cli",
-  "version": "1.0.0,
+  "version": "1.0.0",
   "description": "Cli tool to verify and generate brazillian CPF and CNPJ numbers",
   "repository": {
     "type": "git",
